@@ -3,10 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: true,
-  route: 'http://fabricaescuelamodgestionnotas-production.up.railway.app/api/V1/',
-  urlEndPoint: 'http://fabricaescuelamodgestionnotas-production.up.railway.app/api/V1/',
-  cookieToken: 'token'
+  route: 'http://fabricaescuelamodgestionnotas-production.up.railway.app/api/V1/';
+  production: false;
+  urlEndPoint: 'http://fabricaescuelamodgestionnotas-production.up.railway.app/api/V1/';
+  cookieToken: 'token';
 };
 
 /*
