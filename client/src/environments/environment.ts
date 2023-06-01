@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  route: 'http://localhost:8080/api/V1/',
+  route: 'http://fabricaescuelamodgestionnotas-production.up.railway.app/api/V1/',
   //cookieToken: 'token'
 };
 
