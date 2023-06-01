@@ -28,6 +28,7 @@ com\udea\gestionnotas\service\curso\ICursoService.class
 com\udea\gestionnotas\model\dto\Curso.class
 com\udea\gestionnotas\model\mapeo\ActividadMapperImpl.class
 com\udea\gestionnotas\model\entity\EstudiantesGrupoE.class
+com\udea\gestionnotas\GestionDeNotasApplication$1.class
 com\udea\gestionnotas\api\ProfesorApi.class
 com\udea\gestionnotas\model\mapeo\ProfesorMapperImpl.class
 com\udea\gestionnotas\dao\ProfesorDao.class
