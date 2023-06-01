@@ -3,7 +3,7 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false,
+  production: true,
   route: 'http://fabricaescuelamodgestionnotas-production.up.railway.app/api/V1/',
   urlEndPoint: 'http://fabricaescuelamodgestionnotas-production.up.railway.app/api/V1/',
   cookieToken: 'token'
