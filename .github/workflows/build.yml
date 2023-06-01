@@ -17,6 +17,7 @@ jobs:
         uses: actions/setup-java@v3
         with:
           java-version: 11
+          distribution: 'adopt' # Especifica la distribución de Java, por ejemplo, 'adopt' o 'zulu'
 
       - name: Cache Maven packages
         uses: actions/cache@v2
