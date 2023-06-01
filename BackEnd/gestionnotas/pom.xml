@@ -11,7 +11,7 @@
 	<groupId>com.udea</groupId>
 	<artifactId>gestionnotas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>gestionDeNotas</name>
 	<description>modulo de gestion de notas</description>
 	<properties>
