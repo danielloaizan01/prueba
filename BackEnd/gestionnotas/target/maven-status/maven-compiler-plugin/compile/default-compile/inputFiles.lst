@@ -10,6 +10,7 @@ D:\Proyectos\nube_gestion\FabricaEscuelaModGestionNotas\BackEnd\gestionnotas\src
 D:\Proyectos\nube_gestion\FabricaEscuelaModGestionNotas\BackEnd\gestionnotas\src\main\java\com\udea\gestionnotas\service\profesor\ProfesorService.java
 D:\Proyectos\nube_gestion\FabricaEscuelaModGestionNotas\BackEnd\gestionnotas\src\main\java\com\udea\gestionnotas\api\CursoApi.java
 D:\Proyectos\nube_gestion\FabricaEscuelaModGestionNotas\BackEnd\gestionnotas\src\main\java\com\udea\gestionnotas\dao\ProfesorDao.java
+D:\Proyectos\nube_gestion\FabricaEscuelaModGestionNotas\BackEnd\gestionnotas\src\main\java\com\udea\gestionnotas\config\WebConfig.java
 D:\Proyectos\nube_gestion\FabricaEscuelaModGestionNotas\BackEnd\gestionnotas\src\main\java\com\udea\gestionnotas\service\grupo\GrupoService.java
 D:\Proyectos\nube_gestion\FabricaEscuelaModGestionNotas\BackEnd\gestionnotas\src\main\java\com\udea\gestionnotas\service\estudiante\EstudianteService.java
 D:\Proyectos\nube_gestion\FabricaEscuelaModGestionNotas\BackEnd\gestionnotas\src\main\java\com\udea\gestionnotas\model\dto\Grupo.java

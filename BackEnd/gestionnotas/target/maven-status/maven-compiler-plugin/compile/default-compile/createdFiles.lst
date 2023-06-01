@@ -12,6 +12,7 @@ com\udea\gestionnotas\model\dto\Actividad.class
 com\udea\gestionnotas\model\entity\GrupoE.class
 com\udea\gestionnotas\model\mapeo\ProfesorMapper.class
 com\udea\gestionnotas\model\entity\ActividadE.class
+com\udea\gestionnotas\config\WebConfig.class
 com\udea\gestionnotas\dao\EstudiantesGrupoDao.class
 com\udea\gestionnotas\model\mapeo\GrupoMapperImpl.class
 com\udea\gestionnotas\model\mapeo\CursoMapper.class
