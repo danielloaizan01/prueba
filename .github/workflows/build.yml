@@ -29,7 +29,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         with:
-          projectBaseDir: ./BackEnd/gestionotas   # Ruta al proyecto backend en tu repositorio
+          projectBaseDir: ./BackEnd/gestionnotas   # Ruta al proyecto backend en tu repositorio
           extraProperties: |
             sonar.projectKey=backend-project-key
             # Otras propiedades de configuración para el análisis del backend
