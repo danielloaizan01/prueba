@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  route: 'https://fabricaescuelamodgestionnotas-production.up.railway.app/api/V1/',
-  //cookieToken: 'token'
+  route: 'http://fabricaescuelamodgestionnotas-production.up.railway.app/api/V1/',
+  cookieToken: 'token'
 };
 
 /*
